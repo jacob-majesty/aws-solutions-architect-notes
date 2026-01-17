@@ -911,3 +911,7 @@ Security is the most important domain in the SAA-C03.
 * **Read the LAST sentence first.** Often the question has 3 paragraphs of story, but the last sentence asks for "Least Cost" or "Most Resilient."
 * **Eliminate 2 obvious wrong answers.** Usually, two answers are technically impossible or use services that don't exist.
 * **Watch the clock.** 130 minutes for 65 questions is about **2 minutes per question**. If you are stuck, flag it and move on.
+
+---
+> **Disclaimer:** These notes are for educational purposes based on my personal study journey. While I strive for accuracy, AWS frequently updates its services and exam criteria. Always refer to the [Official AWS Documentation](https://aws.amazon.com/documentation/) for the most current information.
+
